@@ -43,7 +43,7 @@ add_action( 'wp_enqueue_scripts', 'powder_studio_enqueue_style_sheet' );
  */
 function powder_studio_enqueue_header_javascript() {
 
-	wp_enqueue_script( 'header', get_template_directory_uri() . '/assets/js/header.js', array('jquery'), '1.0', true );
+	wp_enqueue_script( 'powder-studio', get_template_directory_uri() . '/assets/js/header.js', array('jquery'), '1.0', true );
 
 }
 add_action( 'wp_enqueue_scripts', 'powder_studio_enqueue_header_javascript' );
