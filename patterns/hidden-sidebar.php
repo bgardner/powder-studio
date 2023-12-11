@@ -13,7 +13,7 @@
 		<h2 class="wp-block-heading"><?php echo esc_html__( 'About', 'powder-studio' ); ?></h2>
 		<!-- /wp:heading -->
 		<!-- wp:paragraph -->
-		<p><?php echo esc_html__( 'With Powder, we want to revolutionize how websites are made by embracing the power of WordPress and blocks.', 'powder-studio' ); ?></p>
+		<p><?php echo esc_html__( 'Powder Studio revolutionizes how websites are made by embracing the power of WordPress block design.', 'powder-studio' ); ?></p>
 		<!-- /wp:paragraph -->
 	</div>
 	<!-- /wp:group -->
