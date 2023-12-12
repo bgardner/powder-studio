@@ -3,13 +3,17 @@ Contributors: bgardner
 Requires at least: 6.4
 Tested up to: 6.4
 Requires PHP: 7.0
-Stable tag: 0.9.1
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Stable tag: 0.9.2
+License: GPLv3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
 Powder Studio, a fork of the original (and simplified) Powder theme, embraces the limitless potential of block-based design. Its signature approach—inspired by the brilliant color palettes of Tailwind CSS—transcends conventional standards and provides an innovative, engaging, and imaginative canvas where creativity knows no bounds. With its extensive library of wireframe patterns, style variations, and versatile templates, Powder Studio transforms how WordPress websites are built.
+
+= 0.9.2 =
+
+License update.
 
 = 0.9.1 =
 
@@ -43,8 +47,8 @@ Outfit Font
 
 == Sample Images ==
 
-The following images are self-designed and declared under GPL License, Version 2.0.
-License URL: http://www.gnu.org/licenses/gpl-2.0.html
+The following images are self-designed and declared under GPL License, Version 3.0.
+License URL: https://www.gnu.org/licenses/gpl-3.0.html
 
 sample-avatar-dark.png
 sample-avatar-light.png
