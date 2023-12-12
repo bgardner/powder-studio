@@ -2,7 +2,7 @@
 /**
  * Title: Feature columns section with image and text
  * Slug: powder-studio/content-feature-columns
- * Categories: content
+ * Categories: powder-studio-content
  */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"30px","left":"30px","top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large"},"margin":{"top":"0"}}},"layout":{"type":"constrained"},"metadata":{"name":"Feature Columns"}} -->

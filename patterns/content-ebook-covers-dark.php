@@ -2,7 +2,7 @@
 /**
  * Title: Columns section with eBook covers
  * Slug: powder-studio/content-ebook-covers-dark
- * Categories: content
+ * Categories: powder-studio-content
  */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","left":"30px","right":"30px"},"margin":{"top":"0"}}},"backgroundColor":"contrast","textColor":"base","layout":{"type":"constrained"},"metadata":{"name":"eBook Covers"}} -->

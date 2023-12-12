@@ -2,7 +2,7 @@
 /**
  * Title: About section with columns
  * Slug: powder-studio/content-about-split
- * Categories: content
+ * Categories: powder-studio-content
  */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"30px","left":"30px","top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large"},"margin":{"top":"0"}}},"layout":{"type":"constrained"},"metadata":{"name":"About Split"}} -->

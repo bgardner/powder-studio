@@ -2,7 +2,7 @@
 /**
  * Title: Call to action section with text, button
  * Slug: powder-studio/content-cta-stacked-dark
- * Categories: content
+ * Categories: powder-studio-content
  */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","left":"30px","right":"30px"},"margin":{"top":"0"}}},"backgroundColor":"contrast","textColor":"base","layout":{"type":"constrained"},"metadata":{"name":"Call to Action"}} -->

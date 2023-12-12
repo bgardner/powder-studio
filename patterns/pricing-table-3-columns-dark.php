@@ -2,7 +2,7 @@
 /**
  * Title: Pricing table with three columns
  * Slug: powder-studio/pricing-table-3-columns-dark
- * Categories: pricing
+ * Categories: powder-studio-pricing
  */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"30px","left":"30px","top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large"},"margin":{"top":"0"}}},"backgroundColor":"contrast","layout":{"type":"constrained"},"metadata":{"name":"Pricing Table"}} -->

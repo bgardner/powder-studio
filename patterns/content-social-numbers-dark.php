@@ -2,7 +2,7 @@
 /**
  * Title: Social media followers
  * Slug: powder-studio/content-social-numbers-dark
- * Categories: content
+ * Categories: powder-studio-content
  */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","right":"30px","left":"30px"},"margin":{"top":"0px"}}},"backgroundColor":"contrast","textColor":"base","layout":{"type":"constrained","wideSize":"1080px"},"metadata":{"name":"Social Numbers"}} -->

@@ -2,7 +2,7 @@
 /**
  * Title: Page content with box shadow
  * Slug: powder-studio/template-page-box-shadow
- * Categories: template
+ * Categories: powder-studio-template
  * Template Types: page
  */
 ?>

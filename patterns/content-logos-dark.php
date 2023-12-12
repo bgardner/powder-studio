@@ -2,7 +2,7 @@
 /**
  * Title: Logo section with images
  * Slug: powder-studio/content-logos-dark
- * Categories: content
+ * Categories: powder-studio-content
  */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","right":"30px","left":"30px"},"margin":{"top":"0"}}},"backgroundColor":"contrast","layout":{"type":"constrained"},"metadata":{"name":"Logos"}} -->

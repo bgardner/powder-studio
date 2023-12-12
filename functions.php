@@ -97,35 +97,35 @@ add_action( 'init', 'powder_studio_register_block_styles' );
 function powder_studio_register_pattern_categories() {
 
 	register_block_pattern_category(
-		'content',
+		'powder-studio-content',
 		array(
 			'label'       => __( 'Content', 'powder-studio' ),
 			'description' => __( 'A collection of content patterns designed for Powder.', 'powder-studio' ),
 		)
 	);
 	register_block_pattern_category(
-		'hero',
+		'powder-studio-hero',
 		array(
 			'label'       => __( 'Hero', 'powder-studio' ),
 			'description' => __( 'A collection of hero patterns designed for Powder.', 'powder-studio' ),
 		)
 	);
 	register_block_pattern_category(
-		'page',
+		'powder-studio-page',
 		array(
 			'label'       => __( 'Pages', 'powder-studio' ),
 			'description' => __( 'A collection of page patterns designed for Powder.', 'powder-studio' ),
 		)
 	);
 	register_block_pattern_category(
-		'pricing',
+		'powder-studio-pricing',
 		array(
 			'label'       => __( 'Pricing', 'powder-studio' ),
 			'description' => __( 'A collection of pricing patterns designed for Powder.', 'powder-studio' ),
 		)
 	);
 	register_block_pattern_category(
-		'template',
+		'powder-studio-template',
 		array(
 			'label'       => __( 'Templates', 'powder-studio' ),
 			'description' => __( 'A collection of template patterns designed for Powder.', 'powder-studio' ),

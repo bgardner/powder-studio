@@ -2,7 +2,7 @@
 /**
  * Title: Post content with box shadow
  * Slug: powder-studio/template-single-box-shadow
- * Categories: template
+ * Categories: powder-studio-template
  * Template Types: single
  */
 ?>

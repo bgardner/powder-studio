@@ -2,7 +2,7 @@
 /**
  * Title: Testimonials section with text, image
  * Slug: powder-studio/testimonials-columns-dark
- * Categories: testimonials
+ * Categories: powder-studio-testimonials
  */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","left":"30px","right":"30px"}},"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"backgroundColor":"contrast","textColor":"base","layout":{"type":"constrained"},"metadata":{"name":"Testimonials"}} -->

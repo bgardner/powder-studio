@@ -2,7 +2,7 @@
 /**
  * Title: Page with image, links, social icons
  * Slug: powder-studio/page-link-dark
- * Categories: page
+ * Categories: powder-studio-page
  */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0px"},"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large"}},"dimensions":{"minHeight":"100vh"},"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"backgroundColor":"contrast","textColor":"base","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"},"metadata":{"name":"Link Page"}} -->

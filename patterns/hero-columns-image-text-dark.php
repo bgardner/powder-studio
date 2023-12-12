@@ -2,7 +2,7 @@
 /**
  * Title: Section with image, text, buttons
  * Slug: powder-studio/hero-columns-image-text-dark
- * Categories: hero
+ * Categories: powder-studio-hero
  */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"30px","left":"30px","top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large"},"margin":{"top":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"backgroundColor":"contrast","textColor":"base","layout":{"type":"constrained"},"metadata":{"name":"Image and Text"}} -->

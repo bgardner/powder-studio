@@ -2,7 +2,7 @@
 /**
  * Title: Page content with gradient cover
  * Slug: powder-studio/template-page-gradient-cover
- * Categories: template
+ * Categories: powder-studio-template
  * Template Types: page
  */
 ?>

@@ -2,7 +2,7 @@
 /**
  * Title: Post content with gradient cover
  * Slug: powder-studio/template-single-gradient-cover
- * Categories: template
+ * Categories: powder-studio-template
  * Template Types: single
  */
 ?>

@@ -2,7 +2,7 @@
 /**
  * Title: Section that shows progress bars
  * Slug: powder-studio/content-progress-bars
- * Categories: content
+ * Categories: powder-studio-content
  */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","left":"30px","right":"30px"},"margin":{"top":"0"}}},"layout":{"type":"constrained"},"metadata":{"name":"Progress Bars"}} -->
