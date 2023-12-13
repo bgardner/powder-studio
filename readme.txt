@@ -9,7 +9,7 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-Powder Studio, a fork of the original (and simplified) Powder theme, embraces the limitless potential of block-based design. Its signature approach—inspired by the brilliant color palettes of Tailwind CSS—transcends conventional standards and provides an innovative, engaging, and imaginative canvas where creativity knows no bounds. With its extensive library of wireframe patterns, style variations, and versatile templates, Powder Studio transforms how WordPress websites are built.
+Powder Studio, a fork of the original (and simplified) Powder theme, embraces the limitless potential of block-based design. Its signature approach—inspired by the brilliant color palettes of Tailwind CSS—transcends conventional standards and provides an innovative, engaging, and imaginative canvas where creativity knows no bounds. With its extensive library of wireframe patterns, style variations, and templates, Powder Studio revolutionizes how WordPress websites are made.
 
 = 0.9.2 =
 
