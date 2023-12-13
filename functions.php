@@ -4,14 +4,14 @@
  *
  * @package Powder Studio
  * @author  Brian Gardner
- * @license GNU General Public License v2 or later
+ * @license GNU General Public License v3
  * @link    https://briangardner.com/
  */
 
 if ( ! function_exists( 'powder_studio_setup' ) ) {
 
 	/**
-	 * Initialize theme defaults and registers support for WordPress features.
+	 * Initialize theme defaults and register support for WordPress features.
 	 */
 	function powder_studio_setup() {
 
