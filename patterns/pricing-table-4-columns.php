@@ -7,7 +7,7 @@
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"30px","left":"30px","top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large"},"margin":{"top":"0"}}},"layout":{"type":"constrained"},"metadata":{"name":"Pricing Table"}} -->
 <div class="wp-block-group alignfull" style="margin-top:0;padding-top:var(--wp--preset--spacing--x-large);padding-right:30px;padding-bottom:var(--wp--preset--spacing--x-large);padding-left:30px">
-	<!-- wp:columns {"align":"wide"} -->
+	<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"left":"var:preset|spacing|x-small"}}}} -->
 	<div class="wp-block-columns alignwide">
 		<!-- wp:column {"width":""} -->
 		<div class="wp-block-column">
