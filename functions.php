@@ -100,35 +100,42 @@ function powder_studio_register_pattern_categories() {
 		'powder-studio-content',
 		array(
 			'label'       => __( 'Content', 'powder-studio' ),
-			'description' => __( 'A collection of content patterns designed for Powder.', 'powder-studio' ),
+			'description' => __( 'A collection of content patterns Powder Studio.', 'powder-studio' ),
 		)
 	);
 	register_block_pattern_category(
 		'powder-studio-hero',
 		array(
 			'label'       => __( 'Hero', 'powder-studio' ),
-			'description' => __( 'A collection of hero patterns designed for Powder.', 'powder-studio' ),
+			'description' => __( 'A collection of hero patterns for Powder Studio.', 'powder-studio' ),
 		)
 	);
 	register_block_pattern_category(
 		'powder-studio-page',
 		array(
 			'label'       => __( 'Pages', 'powder-studio' ),
-			'description' => __( 'A collection of page patterns designed for Powder.', 'powder-studio' ),
+			'description' => __( 'A collection of page patterns for Powder Studio.', 'powder-studio' ),
 		)
 	);
 	register_block_pattern_category(
 		'powder-studio-pricing',
 		array(
 			'label'       => __( 'Pricing', 'powder-studio' ),
-			'description' => __( 'A collection of pricing patterns designed for Powder.', 'powder-studio' ),
+			'description' => __( 'A collection of pricing patterns for Powder Studio.', 'powder-studio' ),
 		)
 	);
 	register_block_pattern_category(
 		'powder-studio-template',
 		array(
 			'label'       => __( 'Templates', 'powder-studio' ),
-			'description' => __( 'A collection of template patterns designed for Powder.', 'powder-studio' ),
+			'description' => __( 'A collection of template patterns for Powder Studio.', 'powder-studio' ),
+		)
+	);
+	register_block_pattern_category(
+		'powder-studio-testimonials',
+		array(
+			'label'       => __( 'Testimonials', 'powder-studio' ),
+			'description' => __( 'A collection of template testimonials for Powder Studio.', 'powder-studio' ),
 		)
 	);
 
