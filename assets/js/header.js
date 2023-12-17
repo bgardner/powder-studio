@@ -13,7 +13,7 @@ let powderStudioLastScrollTop = 0;
 function handleScroll() {
 	if (powderStudioHeader) { // Only proceed if the header exists
 		const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-        
+
 		// Compare the new scroll position with the last scroll position
 		if (scrollTop > powderStudioLastScrollTop) {
 			// If scrolling down, hide the header
@@ -22,7 +22,7 @@ function handleScroll() {
 			// If scrolling up, show the header
 			powderStudioHeader.style.top = "0";
 		}
-        
+
 		// Update the last scroll position
 		powderStudioLastScrollTop = scrollTop;
 	}
