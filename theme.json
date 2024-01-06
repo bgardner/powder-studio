@@ -544,7 +544,7 @@
 		"elements": {
 			"button": {
 				"border": {
-					"radius": "5px"
+					"radius": "0"
 				},
 				"color": {
 					"background": "var(--wp--preset--color--primary)",
